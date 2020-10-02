@@ -11,6 +11,7 @@ You can install the package via composer:
 
 ```bash
 composer require abdurrahmanriyad/writeup
+sscscscsc
 ```
 
 ## Usage
